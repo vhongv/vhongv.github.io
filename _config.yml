@@ -2,7 +2,6 @@
 
 # url is the full website URL
 # baseurl is the website's URL without the hostname
-remote theme : 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 remote_theme : daattali/beautiful-jekyll
 url: "https://vhongv.github.io"
